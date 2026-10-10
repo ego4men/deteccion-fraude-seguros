@@ -1,0 +1,60 @@
+,importancia
+Fault_PolicyHolder,0.1727167
+BasePolicy_Liability,0.15245105
+PolicyType_Sedan - Liability,0.12158244
+AddressChange_Claim,0.045697838
+PolicyType_Sedan - Collision,0.03101138
+Deductible,0.020867443
+BasePolicy_Collision,0.017031698
+BasePolicy_All Perils,0.015881443
+Make_Accura,0.015183081
+Make_VW,0.013750836
+PolicyType_Sedan - All Perils,0.013377239
+Make_Toyota,0.012678599
+Make_Mecedes,0.01231563
+Make_Honda,0.012073461
+VehiclePrice,0.011906694
+Sex_Male,0.011691169
+AgentType_External,0.011681462
+PoliceReportFiled_Yes,0.011598533
+Age,0.011561529
+AccidentArea_Urban,0.011187871
+PolicyType_Utility - All Perils,0.011187047
+PastNumberOfClaims,0.01081141
+NumberOfSuppliments,0.010756166
+AgeOfVehicle,0.010751355
+Make_Chevrolet,0.010671303
+ReclamoOtroMes,0.010572155
+NumberOfCars,0.010442187
+VehicleCategory_Sedan,0.010402502
+AgeOfPolicyHolder,0.010345456
+WeekOfMonth,0.010282938
+Make_Pontiac,0.010051084
+VehicleCategory_Utility,0.010001515
+WeekOfMonthClaimed,0.009943117
+DriverRating,0.0099192895
+Make_Ford,0.009520895
+MaritalStatus_Single,0.009226197
+VehicleCategory_Sport,0.008892342
+MaritalStatus_Married,0.008586578
+Make_Mazda,0.008504494
+Make_Mercury,0.008203669
+MaritalStatus_Divorced,0.007440576
+Make_Dodge,0.007262143
+Make_Saab,0.0071648364
+Days_Policy_Accident,0.007118769
+Make_Saturn,0.0066500367
+WitnessPresent_Yes,0.0065465197
+Make_Nisson,0.006539823
+PolicyType_Sport - All Perils,0.0062601618
+PolicyType_Sport - Collision,0.005638136
+PolicyType_Utility - Collision,0.0055425656
+Days_Policy_Claim,0.0046819607
+MaritalStatus_Widow,0.0038366413
+Make_BMW,0.0
+Make_Ferrari,0.0
+Make_Lexus,0.0
+Make_Porche,0.0
+Make_Jaguar,0.0
+PolicyType_Sport - Liability,0.0
+PolicyType_Utility - Liability,0.0

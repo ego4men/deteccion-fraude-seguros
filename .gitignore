@@ -1,0 +1,5 @@
+# Dataset de Kaggle: no se redistribuye; se descarga con src/datos.py
+data/*.csv
+__pycache__/
+*.pyc
+.venv/
