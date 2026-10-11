@@ -10,7 +10,7 @@ Modelo de clasificación que **prioriza qué reclamos investigar** en una asegur
 Incluye análisis exploratorio con pruebas estadísticas, comparación de modelos, calibración de probabilidades,
 elección del umbral por costo y una app interactiva en Streamlit.
 
-> 🚀 **Demo en vivo:** [https://deteccion-fraude-seguros-nh6x7rc9wfjyb8wrujqsap.streamlit.app/](https://deteccion-fraude-seguros-nh6x7rc9wfjyb8wrujqsap.streamlit.app/) · también se ejecuta localmente con `streamlit run app/app.py`.
+> 🚀 **Demo en vivo:** [https://fraude-seguros-julio.streamlit.app/](https://fraude-seguros-julio.streamlit.app/) · también se ejecuta localmente con `streamlit run app/app.py`.
 
 ---
 
