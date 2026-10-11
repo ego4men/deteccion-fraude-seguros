@@ -94,7 +94,7 @@ python -m pip install -r requirements.txt
 python src/datos.py          # descarga y verifica el dataset
 python src/eda.py            # análisis exploratorio y pruebas chi-cuadrado
 python src/entrenar.py       # entrena, evalúa y guarda el modelo en modelos/
-streamlit run app/app.py     # abre la app en el navegador
+streamlit run streamlit_app.py  # abre la app en el navegador (equivale a app/app.py)
 ```
 
 ## 8. Estructura
